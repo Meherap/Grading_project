@@ -1,4 +1,3 @@
-
 CREATE DATABASE grading_tool;
 
 USE grading_tool;
